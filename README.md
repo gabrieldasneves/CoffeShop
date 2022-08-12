@@ -7,3 +7,4 @@ The aim is to provide stores to connect QR-codes
 HTML & CSS
 
 ## Layout:
+![print screen](print.png)
